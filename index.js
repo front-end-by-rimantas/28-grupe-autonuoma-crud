@@ -45,7 +45,7 @@ cityBird.carPark();
 
 cityBird.removeCar(0);
 
-cityBird.updateCarPrice(2, 35);
+cityBird.updateCarPrice(1, 35);
 
 cityBird.intro();
 // Hi, we are CityBird and we have 2 cars available.
